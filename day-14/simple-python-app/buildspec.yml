@@ -25,7 +25,5 @@ phases:
     commands:
       - echo "Build completed successfully!"
 
-    - '**/*'
-  base-directory: ../simple-python-app
-  
+
 
